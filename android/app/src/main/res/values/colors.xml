@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_navy">#1E3A8A</color>
+    <color name="primary_navy_dark">#0F172A</color>
+    <color name="accent_gold">#B45309</color>
+    <color name="bg_sober">#F8FAFC</color>
+</resources>
